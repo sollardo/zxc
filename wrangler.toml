@@ -1,0 +1,12 @@
+name = "zxc"
+main = "worker.js"
+compatibility_date = "2026-01-06"
+
+[build]
+command = "npm run build"
+
+# Development configuration
+[vars]
+DIBI = "7aa5377f-9849-4208-8adf-184950363f23"
+TORI = "zxc123"
+PUTY = "ProxyIP.US.CMLiussss.net"
