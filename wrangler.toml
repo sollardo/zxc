@@ -1,11 +1,11 @@
-name = "cf-worker-ws-dev-0415" # todo
+name = "ssoxax" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 
 #main = "test/worker/worker-connect-test.js"
 main = "src/worker-vless.js"
 
-compatibility_date = "2024-04-15"
+compatibility_date = "2026-01-07"
 
 [vars]
-# UUID = "example_dev_token"
+UUID = "4de3b7ff-615e-4274-b261-98e8eb70b5a2"
