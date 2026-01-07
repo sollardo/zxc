@@ -8,4 +8,4 @@ main = "src/worker-with-socks5-experimental.js"
 compatibility_date = "2026-01-07"
 
 [vars]
-UUID = "4de3b7ff-615e-4274-b261-98e8eb70b5a2"
+UUID = ""
