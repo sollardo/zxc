@@ -20,10 +20,10 @@ const ENCODED = {
 };
 
 //to generate your own UUID: https://www.uuidgenerator.net/
-let userCode = '10e894da-61b1-4998-ac2b-e9ccb6af9d30';
+let userCode = '4de3b7ff-615e-4274-b261-98e8eb70b5a2';
 
 // to find proxyIP: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
-let proxyIP = 'turk.radicalization.ir'; // Or use 'nima.nscl.ir
+let proxyIP = 'proxyip.us.cmliussss.net:443'; // Or use 'nima.nscl.ir
 
 if (!isValidUserCode(userCode)) {
   throw new Error('user code is not valid');
